@@ -1,13 +1,13 @@
 {
-  "main.css": "/goit-react-hw-01/static/css/main.db668da1.chunk.css",
-  "main.js": "/goit-react-hw-01/static/js/main.e8619ab6.chunk.js",
-  "main.js.map": "/goit-react-hw-01/static/js/main.e8619ab6.chunk.js.map",
-  "runtime~main.js": "/goit-react-hw-01/static/js/runtime~main.bdf556df.js",
-  "runtime~main.js.map": "/goit-react-hw-01/static/js/runtime~main.bdf556df.js.map",
-  "static/js/2.3b1c3d4d.chunk.js": "/goit-react-hw-01/static/js/2.3b1c3d4d.chunk.js",
-  "static/js/2.3b1c3d4d.chunk.js.map": "/goit-react-hw-01/static/js/2.3b1c3d4d.chunk.js.map",
-  "index.html": "/goit-react-hw-01/index.html",
-  "precache-manifest.d052476f2332a6bdb064509c3a1bd7c0.js": "/goit-react-hw-01/precache-manifest.d052476f2332a6bdb064509c3a1bd7c0.js",
-  "service-worker.js": "/goit-react-hw-01/service-worker.js",
-  "static/css/main.db668da1.chunk.css.map": "/goit-react-hw-01/static/css/main.db668da1.chunk.css.map"
+  "main.css": "/goit-react-hw-01/build/static/css/main.db668da1.chunk.css",
+  "main.js": "/goit-react-hw-01/build/static/js/main.e8619ab6.chunk.js",
+  "main.js.map": "/goit-react-hw-01/build/static/js/main.e8619ab6.chunk.js.map",
+  "runtime~main.js": "/goit-react-hw-01/build/static/js/runtime~main.cf39eb3c.js",
+  "runtime~main.js.map": "/goit-react-hw-01/build/static/js/runtime~main.cf39eb3c.js.map",
+  "static/js/2.3b1c3d4d.chunk.js": "/goit-react-hw-01/build/static/js/2.3b1c3d4d.chunk.js",
+  "static/js/2.3b1c3d4d.chunk.js.map": "/goit-react-hw-01/build/static/js/2.3b1c3d4d.chunk.js.map",
+  "index.html": "/goit-react-hw-01/build/index.html",
+  "precache-manifest.ef3dc4b1f1cf37268238de7e6c759772.js": "/goit-react-hw-01/build/precache-manifest.ef3dc4b1f1cf37268238de7e6c759772.js",
+  "service-worker.js": "/goit-react-hw-01/build/service-worker.js",
+  "static/css/main.db668da1.chunk.css.map": "/goit-react-hw-01/build/static/css/main.db668da1.chunk.css.map"
 }
