@@ -1,0 +1,14 @@
+.transactionHistory {
+  background-color: cornflowerblue;
+  border-spacing: 0em 0em;
+  border: 1px solid grey;
+  margin: 20px auto;
+  width: 450px;
+  text-align: center;
+}
+
+.transactionItem:nth-child(2n + 1) {
+  background-color: lightblue;
+  border: 1px solid grey;
+  padding: 6px 0;
+}

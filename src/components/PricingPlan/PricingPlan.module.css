@@ -1,0 +1,10 @@
+.pricingPlan {
+  display: flex;
+  justify-content: center;
+  margin: 30px;
+  list-style: none;
+  background-color: #dbdbdb;
+}
+.item:nth-child(2n + 1) {
+  margin: 0 30px;
+}
